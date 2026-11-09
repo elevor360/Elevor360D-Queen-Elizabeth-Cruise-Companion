@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Britannia Restaurant",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Main restaurant for Britannia guests."
+  },
+  {
+    "name": "Britannia Club Restaurant",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Dining for Britannia Club guests."
+  },
+  {
+    "name": "Princess Grill Restaurant",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Dining for eligible Princess Grill guests."
+  },
+  {
+    "name": "Queens Grill Restaurant",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Dining for eligible Queens Grill guests."
+  },
+  {
+    "name": "Lido Restaurant",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Casual dining and selected alternative dining."
+  },
+  {
+    "name": "Steakhouse at The Verandah",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Speciality steakhouse; check availability, reservations and charges."
+  },
+  {
+    "name": "Golden Lion",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Traditional pub food and drinks."
+  },
+  {
+    "name": "Café Carinthia",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Coffee, teas, pastries and light refreshments."
+  },
+  {
+    "name": "Wellness Café",
+    "category": "Dining",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Wellness-focused light meals and refreshments."
+  },
+  {
+    "name": "Commodore Club",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Observation lounge and cocktails."
+  },
+  {
+    "name": "Midships Bar",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Cocktails and socialising near the Grand Lobby."
+  },
+  {
+    "name": "Garden Lounge",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Glass-roofed lounge inspired by Kew Gardens."
+  },
+  {
+    "name": "Golden Lion",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Traditional British pub."
+  },
+  {
+    "name": "Casino Bar",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Bar serving the casino area; check hours."
+  },
+  {
+    "name": "Lido Bar",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Poolside refreshments."
+  },
+  {
+    "name": "Grill Suites Lounge",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Exclusive lounge for eligible Grill Suites guests."
+  },
+  {
+    "name": "Yacht Club",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Evening music, drinks and dancing."
+  },
+  {
+    "name": "Churchill's Cigar Lounge",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Cigar lounge; check access and policies."
+  },
+  {
+    "name": "Café Carinthia",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Coffee, tea and refreshments."
+  },
+  {
+    "name": "Gin & Fizz",
+    "category": "Bars",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Gin and sparkling drinks; confirm current branding onboard."
+  },
+  {
+    "name": "Royal Court Theatre",
+    "category": "Entertainment",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Live performances and shows."
+  },
+  {
+    "name": "Queens Room",
+    "category": "Entertainment",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Ballroom dancing, afternoon tea and events."
+  },
+  {
+    "name": "Yacht Club",
+    "category": "Entertainment",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Evening dancing and music."
+  },
+  {
+    "name": "Golden Lion",
+    "category": "Entertainment",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Quizzes, music and activities."
+  },
+  {
+    "name": "Casino",
+    "category": "Entertainment",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Gaming; age and opening restrictions apply."
+  },
+  {
+    "name": "Games Deck",
+    "category": "Entertainment",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Outdoor games including giant chess and croquet."
+  },
+  {
+    "name": "Pavilion Pool",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Outdoor pool and relaxation area."
+  },
+  {
+    "name": "Lido Pool",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Outdoor swimming and sun loungers."
+  },
+  {
+    "name": "Garden Lounge",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Conservatory-style lounge near Pavilion Pool."
+  },
+  {
+    "name": "Mareel Wellness & Beauty",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Spa and beauty treatments; charges may apply."
+  },
+  {
+    "name": "Fitness Centre",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Gym and exercise facilities."
+  },
+  {
+    "name": "Wellness Café",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Wellness-focused refreshments."
+  },
+  {
+    "name": "Library",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Books and quiet reading."
+  },
+  {
+    "name": "Royal Arcade",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Onboard shops."
+  },
+  {
+    "name": "Grill Suites Terrace",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Private terrace for eligible Grill Suites guests."
+  },
+  {
+    "name": "Promenade Deck",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Outdoor walking space."
+  },
+  {
+    "name": "Games Deck",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Outdoor games and sports."
+  },
+  {
+    "name": "Medical Centre",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Onboard medical assistance; charges may apply."
+  },
+  {
+    "name": "Purser's Office",
+    "category": "Facilities",
+    "deck": "See official Queen Elizabeth deck plan",
+    "description": "Guest services and assistance."
+  }
+]
