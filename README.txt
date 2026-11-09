@@ -10,3 +10,5 @@ Independent unofficial guide, not affiliated with Cunard.
 V1.2: Ship information is bundled into app.js as an offline fallback; refreshed script URLs and service worker cache to avoid stale V1 files.
 
 V1.3: Correct hyperlink parsing and add direct Cunard deck plan PDF. Cache updated.
+
+V1.4: Removed invalid direct PDF link. Official Cunard Queen Elizabeth ship page is the single deck-plan source.

@@ -1,7 +1,7 @@
 'use strict';
-const CACHE_NAME = 'elevor360d-queen-elizabeth-static-v6';
+const CACHE_NAME = 'elevor360d-queen-elizabeth-static-v7';
 const PREFIX = 'elevor360d-queen-elizabeth-static-';
-const OFFLINE_FILES = ['./','./index.html','./style.css?v=qev13','./app.js?v=qev13','./manifest.webmanifest','./icon.svg','./venues.json','./information.json?v=qev13','./advert-settings.json','./share-qr.png','./advertising.js?v=qev13','./ad-config.json','./advertising/adverts.json','./advertising/images/elevor360d-promo.jpg'];
+const OFFLINE_FILES = ['./','./index.html','./style.css?v=qev14','./app.js?v=qev14','./manifest.webmanifest','./icon.svg','./venues.json','./information.json?v=qev14','./advert-settings.json','./share-qr.png','./advertising.js?v=qev14','./ad-config.json','./advertising/adverts.json','./advertising/images/elevor360d-promo.jpg'];
 self.addEventListener('install',event => event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(OFFLINE_FILES)).then(() => self.skipWaiting())));
 self.addEventListener('activate',event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE_NAME).map(key => caches.delete(key)))).then(() => self.clients.claim())));
 self.addEventListener('fetch',event => {
